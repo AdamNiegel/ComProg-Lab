@@ -1,11 +1,5 @@
 #GhostGame.py
 
-import tkinter
-root = tkinter.Tk()
-root.title ("Ghost Game")
-
-root .mainloop()
-
 
 from random import randint
 print ("Cheater ba yarn?")
@@ -37,3 +31,4 @@ while feeling_brave:
 
 print ('Run Away!')
 print ('aray mo cho, You scored', score, 'points')
+
